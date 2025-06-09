@@ -1,12 +1,11 @@
 {
-  "Title": "New Update Available",
-  "versionCode": "55",
-  "versionName": "5.2.0",
-  "updateSize": "120.2 MB",
-  "releaseDate": "Feb 15, 2024",
-  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-  "downloadLink": "https://github.com/hamza4app2vip/GrokUpdate/releases/download/0.5.7/Grok45.apk",
-  "Browser link": "https://www.designlabofficial.site/p/download.html",
+  "versionCode": "2",
+  "versionName": "1.0.1",
+  "downloadLink": "https://example.com/downloads/my_app_v1.0.1.apk",
   "forceUpdate": false,
-  "Direct Function": true
+  "Title": "Awesome New Features!",
+  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
+  "updateSize": "30.5 MB",
+  "releaseDate": "2023-10-27",
+  "priority": "high"
 }
