@@ -1,12 +1,22 @@
 {
-  "Title": "New Update Available",
-  "versionCode": "55",
-  "versionName": "5.2.0",
-  "updateSize": "10.2 MB",
-  "releaseDate": "Feb 15, 2024",
-  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-  "downloadLink": "https://github.com/hamza4app2vip/GrokUpdate/releases/download/0.5.7/Grok45.apk",
-  "Browser link": "https://www.designlabofficial.site/p/download.html",
-  "forceUpdate": true,
-  "Direct Function": true
+  "enabled": true,
+  "title": "تنبيه جديد",
+  "message": "aaa",
+  "style": "inbox",
+"lines": ["رسالة ١", "رسالة ٢", "مرحبا ٣"],
+  "sound": true,
+  "vibrate": true,
+  "expires": "2025-05-01T12:00:00",
+  "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
+  "actions": [
+    {
+      "title": "فتح",
+      "url": "https://example.com"
+    },
+    {
+      "title": "تجاهل"
+    }
+  ]
 }
+
+// StyleType: bigtext|bigpicture|inbox
