@@ -2,7 +2,7 @@
   "enabled": true,
   "title": "تنبيه جديد",
   "message": "aaa",
-  "style": "inbox",
+  "style": "bigtext",
 "lines": ["رسالة ١", "رسالة ٢", "مرحبا ٣"],
   "sound": true,
   "vibrate": true,
