@@ -3,7 +3,7 @@
   "title": "تنبيه جديد",
   "message": "aaa",
   "style": "bigtext",
-"lines": ["رسالة ١", "رسالة ٢", "مرحبا ٣"],
+"lines": ["رسالة ١,  ٣"],
   "sound": true,
   "vibrate": true,
   "expires": "2025-07-01T12:00:00",
